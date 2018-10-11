@@ -1,9 +1,8 @@
 # Web research vergelijking -> Ionic vs ReactNative
 ## 1. Sources
-* https://www.youtube.com/watch?v=0jamhGf-8ww&list=PLYxzS__5yYQljbuGjaeugpqs9U07gS5P5
-* https://www.youtube.com/watch?v=gHPL_2IsZlI
-
+* https://ionicframework.com/docs/intro/tutorial/
 ## 2. Logboek
 |       Datum       |                    Activiteit                    |        Uren       |
 |-------------------|:------------------------------------------------:|------------------:|
+|     11/10/2018    |              Install Ionic + tutorial            |                   |
 
