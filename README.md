@@ -4,5 +4,6 @@
 ## 2. Logboek
 |       Datum       |                    Activiteit                    |        Uren       |
 |-------------------|:------------------------------------------------:|------------------:|
-|     11/10/2018    |              Install Ionic + tutorial            |                   |
+|     11/10/2018    |              Install Ionic + tutorial            |         1         |
+|     11/10/2018    |              Tutorial create to do app           |                   |
 
