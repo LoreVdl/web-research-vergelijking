@@ -3,7 +3,6 @@
 * https://ionicframework.com/docs/intro/tutorial/
 * https://ionicacademy.com/getting-started-with-ionic-4/
 * https://ionicacademy.com/ionic-routing-navigation/
-* https://outlook.live.com/mail/inbox/id/AQQkADAwATZiZmYAZC1iM2FiLTQyYjAtMDACLTAwCgAQAPbwCJVKlAJIplKJCUEmCOA%3D
 * https://facebook.github.io/react-native/docs/getting-started.html
 
 * https://www.codementor.io/fmcorz/react-native-vs-ionic-du1087rsw
